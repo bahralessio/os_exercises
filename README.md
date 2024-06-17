@@ -7,3 +7,4 @@ Ths repository is an archive of the exercises proposed and completed during the 
 3. Examples of file system procedures like reading or copying.
 
 **Note:** All the scripts contained in this repo are implemented using C programming language and some common libraries, like pthread or semaphore.
+**Note:** All scripts are compiled using Ubuntu 22.04 LTS via Windows Subsystem for Linux (WSL) and GCC version 11.4.0
